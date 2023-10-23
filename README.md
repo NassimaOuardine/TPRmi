@@ -9,6 +9,8 @@
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/5b6c52e7-aab9-4c48-acdf-f27aedf012e4)
 # Ajoute des salles 
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/6a063435-b19d-422d-85a5-f23287da79e6)
+# Recherche Machine par salle 
+![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/288bd457-bf1c-4538-9ebc-b2393734ad27)
 
 
 
