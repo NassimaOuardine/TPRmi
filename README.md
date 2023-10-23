@@ -7,5 +7,8 @@
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/ed48b8f6-1d3b-4e32-915b-e3050985824e)
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/99529031-0c1d-43cc-8c20-faede51d21fc)
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/5b6c52e7-aab9-4c48-acdf-f27aedf012e4)
+# Ajoute des salles 
+![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/6a063435-b19d-422d-85a5-f23287da79e6)
+
 
 
