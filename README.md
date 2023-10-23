@@ -11,6 +11,8 @@
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/6a063435-b19d-422d-85a5-f23287da79e6)
 # Recherche Machine par salle 
 ![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/288bd457-bf1c-4538-9ebc-b2393734ad27)
+![image](https://github.com/NassimaOuardine/TPRmi/assets/147509426/9df237fa-d110-4e8c-a48b-8ff58597d339)
+
 
 
 
